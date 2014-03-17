@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<CommerceInformation SchemaVersion="2.021" CreationDate="2010-07-12T16:48:00">
+	<Metadata>
+		<Id>2</Id>
+		<Title>Job Vacancies</Title>
+		<Properties>
+			<Property>
+				<Id>CML2_ACTIVE</Id>
+				<Title>BitrixActive</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_CODE</Id>
+				<Title>Code</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_SORT</Id>
+				<Title>Sort</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_ACTIVE_FROM</Id>
+				<Title>Start time</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_ACTIVE_TO</Id>
+				<Title>End time</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_PREVIEW_TEXT</Id>
+				<Title>Anons</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_PREVIEW_PICTURE</Id>
+				<Title>Preview picture</Title>
+				<Multiple>false</Multiple>
+			</Property>
+		</Properties>
+		<Sections>
+		</Sections>
+	</Metadata>
+	<Catalog>
+		<Id>furniture_vacancies</Id>
+		<MetadataId>2</MetadataId>
+		<Title>Job Vacancies</Title>
+		<BitrixCode>furniture_vacancies</BitrixCode>
+		<BitrixSort>500</BitrixSort>
+		<BitrixListURL>#SITE_DIR#/company/vacancies.php</BitrixListURL>
+		<BitrixDetailURL>#SITE_DIR#/company/vacancies.php##ID#</BitrixDetailURL>
+		<BitrixSectionURL></BitrixSectionURL>
+		<BitrixPicture></BitrixPicture>
+		<BitrixIndexElements>true</BitrixIndexElements>
+		<BitrixIndexSections>false</BitrixIndexSections>
+		<BitrixWorkflow>false</BitrixWorkflow>
+		<BitrixLabels>
+			<BitrixLabel>
+				<Id>ELEMENT_NAME</Id>
+				<Value>Vacancy</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENTS_NAME</Id>
+				<Value>Vacancies</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENT_ADD</Id>
+				<Value>Add vacancy</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENT_EDIT</Id>
+				<Value>Edit vacancy</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENT_DELETE</Id>
+				<Value>Delete vacancy</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_NAME</Id>
+				<Value>Category</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTIONS_NAME</Id>
+				<Value>Categories</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_ADD</Id>
+				<Value>Add category</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_EDIT</Id>
+				<Value>Edit category</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_DELETE</Id>
+				<Value>Delete category</Value>
+			</BitrixLabel>
+		</BitrixLabels>
+		<Elements>
+			<Element>
+				<Id>2</Id>
+				<Title>Designer, Decorative Accessories</Title>
+				<BitrixTags></BitrixTags>
+				<Description>&lt;b&gt;Requirements&lt;/b&gt; 						 						 
+&lt;p&gt;Degree in Fine Arts, Applied Arts or Engineering&lt;/p&gt;
+
+&lt;b&gt;Essential Functions&lt;/b&gt; 						 
+&lt;p&gt;Develop designs from conception through revisions to sample approval. Present to Head Designer for review and approval.&lt;/p&gt;
+&lt;p&gt;Create presentation boards.&lt;/p&gt;	
+					 						
+&lt;b&gt;Employment Status&lt;/b&gt; 						 
+&lt;p&gt;Full time&lt;/p&gt;
+ </Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>200</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value>2010-05-01 00:00:00</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value></Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+			<Element>
+				<Id>3</Id>
+				<Title>Associate Marketing Manager</Title>
+				<BitrixTags></BitrixTags>
+				<Description>&lt;p&gt;Provide professional administrative support to IT executives and department. Tasks require a high degree of sound judgment, initiative and tact under general supervision.&lt;/p&gt;
+
+&lt;b&gt;Requirements&lt;/b&gt; 						 						 
+&lt;p&gt;Minimum 5 years experience as an executive assistant&lt;/p&gt;
+&lt;p&gt;Proficiency with Microsoft Office Suite&lt;/p&gt;
+&lt;p&gt;Strong organizational skills&lt;/p&gt;
+&lt;p&gt;Some college preferred but not necessary  &lt;/p&gt;
+ 						 						
+&lt;b&gt;Essential Functions&lt;/b&gt; 						 
+&lt;p&gt;Provide general point of contact assistance and support for the IT department&lt;/p&gt;
+&lt;p&gt;Maintain contractor database and monitor badge access extensions/deactivations&lt;/p&gt;</Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>300</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value>2010-05-01 00:00:00</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value></Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+			<Element>
+				<Id>4</Id>
+				<Title>Packaging Engineer</Title>
+				<BitrixTags></BitrixTags>
+				<Description>&lt;b&gt;Requirements&lt;/b&gt; 						 						 
+&lt;p&gt;Bachelors Degree preferably in packaging or technically related field.&lt;/p&gt;
+&lt;p&gt;Project Management experience essential.&lt;/p&gt;	
+					 						
+&lt;b&gt;Essential Functions&lt;/b&gt; 						 
+&lt;p&gt;Develop and maintain general and specific packaging specifications that meet transportation
+and optimal distribution flow requirements for all Decorative Accessories&lt;/p&gt;
+&lt;p&gt;Analyze damage reports on products and take appropriate corrective actions to eliminate future
+problems&lt;/p&gt;
+&lt;p&gt;Research, designate, and approve packaging suppliers worldwide.&lt;/p&gt;</Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>400</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value>2010-05-01 00:00:00</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value></Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+		</Elements>
+	</Catalog>
+</CommerceInformation>

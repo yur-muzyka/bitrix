@@ -1,0 +1,12 @@
+2014-03-10 02:26:34 -  - exec CUpdateClient::GetUpdatesList
+2014-03-10 02:26:34 -  - exec CUpdateClient::CollectRequestData
+2014-03-10 02:26:34 -  - LICENSE_KEY=X&lang=en&SUPD_VER=12.5.1&VERSION=12.5.10&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.loc&CANGZIP=Y&CLIENT_PHPVER=5.4.9-4ubuntu2.4&stable=Y&bitm_main=12.5.10&bitm_advertising=12.0.0&bitm_bitrixcloud=12.5.1&bitm_bizproc=12.5.1&bitm_blog=12.5.2&bitm_calendar=12.5.5&bitm_clouds=12.5.1&bitm_compression=11.0.0&bitm_currency=12.0.1&bitm_fileman=12.5.2&bitm_form=12.5.0&bitm_forum=12.5.0&bitm_iblock=12.5.5&bitm_idea=11.5.1&bitm_im=12.5.7&bitm_learning=12.5.1&bitm_mail=12.5.0&bitm_mobileapp=12.5.3&bitm_perfmon=12.5.0&bitm_photogallery=12.5.1&bitm_pull=12.5.4&bitm_search=12.5.2&bitm_security=12.5.5&bitm_seo=11.5.0&bitm_socialnetwork=12.5.8&bitm_socialservices=12.5.1&bitm_statistic=12.5.1&bitm_subscribe=12.5.1&bitm_support=12.5.0&bitm_translate=12.0.1&bitm_vote=12.5.1&bitm_webservice=11.5.0&bitm_wiki=12.5.0&bitl_en=&bith_en=
+2014-03-10 02:26:34 -  - exec CUpdateClient::GetHTTPPage
+2014-03-10 02:26:35 -  - TIME GetUpdatesList(request) 0.797 sec
+2014-03-10 02:26:35 -  - exec CUpdateClient::ParseServerData
+2014-03-10 02:26:48 -  - exec CUpdateClient::GetUpdatesList
+2014-03-10 02:26:48 -  - exec CUpdateClient::CollectRequestData
+2014-03-10 02:26:48 -  - LICENSE_KEY=X&lang=en&SUPD_VER=12.5.1&VERSION=12.5.10&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.loc&CANGZIP=Y&CLIENT_PHPVER=5.4.9-4ubuntu2.4&stable=Y&bitm_main=12.5.10&bitm_advertising=12.0.0&bitm_bitrixcloud=12.5.1&bitm_bizproc=12.5.1&bitm_blog=12.5.2&bitm_calendar=12.5.5&bitm_clouds=12.5.1&bitm_compression=11.0.0&bitm_currency=12.0.1&bitm_fileman=12.5.2&bitm_form=12.5.0&bitm_forum=12.5.0&bitm_iblock=12.5.5&bitm_idea=11.5.1&bitm_im=12.5.7&bitm_learning=12.5.1&bitm_mail=12.5.0&bitm_mobileapp=12.5.3&bitm_perfmon=12.5.0&bitm_photogallery=12.5.1&bitm_pull=12.5.4&bitm_search=12.5.2&bitm_security=12.5.5&bitm_seo=11.5.0&bitm_socialnetwork=12.5.8&bitm_socialservices=12.5.1&bitm_statistic=12.5.1&bitm_subscribe=12.5.1&bitm_support=12.5.0&bitm_translate=12.0.1&bitm_vote=12.5.1&bitm_webservice=11.5.0&bitm_wiki=12.5.0&bitl_en=&bith_en=
+2014-03-10 02:26:48 -  - exec CUpdateClient::GetHTTPPage
+2014-03-10 02:26:49 -  - TIME GetUpdatesList(request) 0.897 sec
+2014-03-10 02:26:49 -  - exec CUpdateClient::ParseServerData

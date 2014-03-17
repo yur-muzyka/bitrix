@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<CommerceInformation SchemaVersion="2.021" CreationDate="2010-07-12T16:42:11">
+	<Metadata>
+		<Id>3</Id>
+		<Title>Services</Title>
+		<Properties>
+			<Property>
+				<Id>CML2_ACTIVE</Id>
+				<Title>BitrixActive</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_CODE</Id>
+				<Title>Code</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_SORT</Id>
+				<Title>Sort</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_ACTIVE_FROM</Id>
+				<Title>Start time</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_ACTIVE_TO</Id>
+				<Title>End time</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_PREVIEW_TEXT</Id>
+				<Title>Anons</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_PREVIEW_PICTURE</Id>
+				<Title>Preview picture</Title>
+				<Multiple>false</Multiple>
+			</Property>
+		</Properties>
+		<Sections>
+		</Sections>
+	</Metadata>
+	<Catalog>
+		<Id>furniture_services</Id>
+		<MetadataId>3</MetadataId>
+		<Title>Services</Title>
+		<BitrixCode>furniture_services</BitrixCode>
+		<BitrixSort>500</BitrixSort>
+		<BitrixListURL>#SITE_DIR#/services/</BitrixListURL>
+		<BitrixDetailURL>#SITE_DIR#/services/#ID#/</BitrixDetailURL>
+		<BitrixSectionURL></BitrixSectionURL>
+		<BitrixPicture></BitrixPicture>
+		<BitrixIndexElements>true</BitrixIndexElements>
+		<BitrixIndexSections>true</BitrixIndexSections>
+		<BitrixWorkflow>false</BitrixWorkflow>
+		<BitrixLabels>
+			<BitrixLabel>
+				<Id>ELEMENT_NAME</Id>
+				<Value>Service</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENTS_NAME</Id>
+				<Value>Services</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENT_ADD</Id>
+				<Value>Add new service</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENT_EDIT</Id>
+				<Value>Edit service</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENT_DELETE</Id>
+				<Value>Delete service</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_NAME</Id>
+				<Value>Section</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTIONS_NAME</Id>
+				<Value>Sections</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_ADD</Id>
+				<Value>Add new section</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_EDIT</Id>
+				<Value>Edit section</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_DELETE</Id>
+				<Value>Delete section</Value>
+			</BitrixLabel>
+		</BitrixLabels>
+		<Elements>
+			<Element>
+				<Id>5</Id>
+				<Title>Bespoke furniture</Title>
+				<BitrixTags></BitrixTags>
+				<Description>        &lt;p&gt;We make furniture on order for individual projects including foyers, kitchens, libraries, walk-in closets and other complex orders.&lt;/p&gt;
+        &lt;p&gt;Our furniture is created to match your home, office, or interior in a way that most expresses you. &lt;/p&gt;
+        &lt;p&gt;Our experts will present samples of materials, colors, and styles with which you will be able to visualize your order in a state-of-the-art virtualization before making your decision.  We will work on your timeframe and carefully account for all the nuances of your unique environment.  A schematic project will be produced for your approval before our manufacturing floor does anything.&lt;/p&gt;
+        &lt;p&gt;After signing a contract, in which the timeframe and other terms such as delivery and installation are described, our experienced specialists will create your order.  A 30% pre-payment will be due at that time.  The remainder is payable on deliver or at the completion of installation, as applicable.&lt;/p&gt;
+        
+      </Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>500</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value>We take custom orders, special orders, and orders for bespoke furniture.</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value>services_files/iblock/59f/59f22c47308746286f6b94f603d7bb63.gif</Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+			<Element>
+				<Id>6</Id>
+				<Title>Designing services</Title>
+				<BitrixTags></BitrixTags>
+				<Description>        
+        &lt;ul&gt;
+          &lt;li&gt;Design opportunities for interior spaces - remodeling, space planning, finishing, style consulting, lighting, color planning, re-arrangement, design of special purpose zones.&lt;/li&gt;
+          &lt;li&gt;Concept development, preliminary 3-D modeling of design schemes that allow the client to experiment and choose the best option.&lt;/li&gt;
+          &lt;li&gt;Computerized color schemes with interior and furniture in three dimensions with high fidelity to reality in both color and physical detail.&lt;/li&gt;
+          &lt;li&gt;D&amp;#233;cor - vast assortment of interior accessories to any taste.  International network of suppliers, exclusives, unique pieces. &lt;/li&gt;
+       &lt;/ul&gt;
+        
+      </Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>500</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value>We offer a wide spectrum of design and planning services.</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value>services_files/iblock/1bd/1bd63815d5da9d26db526b6c1577ad26.gif</Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+		</Elements>
+	</Catalog>
+</CommerceInformation>
